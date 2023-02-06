@@ -1,5 +1,5 @@
 # Hand Crank
-![](https://github.com/yashaswiim/machineLab/blob/main/Hand-Crank/imgs/full_view.jpg)
+![](https://github.com/yashaswiim/machineLab/blob/main/6February/imgs/full_view.jpg)
 
 First, a simple hand crank mechanism was made, which comprised of a cam that jumped up and down as the shaft was rotated. Then, a slider was added to this mechanism with the help of a crank and a connecting rod. The movement of the slider was restricted to a linear motion while the crank rotated in a circular motion. Once the mechanism seemed to work smoothly when run by hand, a motor was connected to the mechanism. 
 
@@ -21,10 +21,10 @@ One of the problems that I faced initially was the slider moving in different di
 After this problem was fixed, another issue that I faced was that the slider seemed to rise/tilt upwards from the side that was not connected to the connecting rod when it moved away from its support table. To solve this issue, I just decided to make the slider heavier on the particular side by stacking multiple pieces of cardboard just on that side of the slider. The images for both the solutions that I implemented are below.
 
 #### Slider Support to prevent unwanted motion
-![](https://github.com/yashaswiim/machineLab/blob/main/Hand-Crank/imgs/slider_support.jpg)
+![](https://github.com/yashaswiim/machineLab/blob/main/6February/imgs/slider_support.jpg)
 
 #### Slider Support to balance the weight
-![](https://github.com/yashaswiim/machineLab/blob/main/Hand-Crank/imgs/slider.jpg)
+![](https://github.com/yashaswiim/machineLab/blob/main/6February/imgs/slider.jpg)
 
 
 
