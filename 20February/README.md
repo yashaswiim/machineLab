@@ -24,6 +24,8 @@ For all three machanisms, motors will be required. In the quarter hourly mechani
 ### Types of motors and sensors needed
 DC motors can work well for the hand-crank-slider mechanism as we have seen in class. Servo motors can be used for the extending arm mechanism because 180 degrees movement would be sufficient for this mechanism and finally for the rotating plate, a stepper motor can be used as it would give excellent position accuracy. Its lower speed compared to other motors would not be an obstruction here because we would not want the plate to rotate very fast anyways.
 
+For sensors, we could use position sensors to track the quarter of a circle for the rotating plate and to track when the LED of which box is to be lit up. 
+
 ### Audio and visuals (LEDs) effects
 The LED on each box and the LCD display would give visual effects to the piece. Meanwhile the gong and mallet would give audio effects. We can also think add a mechanism later to enhance the sound of the gong.
 
