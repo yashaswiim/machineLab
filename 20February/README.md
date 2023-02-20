@@ -15,6 +15,9 @@ Inside the box labeled "30", there will be a crankshaft-slider mechanism, one si
 
 Inside the box labeled "00", there will be a mechanism similar to the extending punching glove but instead of the punching glove it will hold something else that signifies the hour that just started and instead of placing it as a side-to-side movement that comes out of the side of the box, it will be placed such that it comes out of the top of the box in an up and down movement. For the rought first draft, I am imagining it to be an LCD that displays the hour like "12:00" that is attached to the extending arm mechanism. When the box labeled "00" comes to the front, the LCD would spring from the top of the box, stay for a while and go back in. 
 
+### Rough sketch
+![Sketch](https://github.com/yashaswiim/machineLab/blob/main/20February/Sketch%20clock%20mechanism.jpg)
+
 ### Achieving the motions
 For all three machanisms, motors will be required. In the quarter hourly mechanism, a motor is needed to rotate the plate. In the half hourly mechanism, a motor is needed to automatically move the hand-crank mechanism every half hour so that the slider (mallet) will slide (hit the gong) when necessary. In the full hourly mechanism, a motor is required to spring the extending arm mechanism out of the box when the hour starts.
 
