@@ -16,11 +16,11 @@ For this mechanism, three motors are required. The first motor is required to ro
 
 For rotating the diver, a stepper motor can be used as it would give excellent position accuracy. Its lower speed compared to other motors would not be an obstruction here because we would not want the diver to rotate very fast anyways in order make it more realistic and to give the viewers a chance to watch the process of the diver reaching the bottom of the "ocean" closely and slowly.
 
-![]()
+![](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/diver--motor.jpg)
 
 For rotating the stick, a servo motor can be used because 180 degrees movement would be sufficient for this mechanism. 180 degrees rotation can bring the shell from the back to the front or the other way around. The motor will be placed at the edge of the diver's tank such that when the stick is extended, the pearl reaches exactly on top of the diver's hand and when it is retracted, the shell is hidden behind (or even inside) the tank, which has a slit at its back to fit the stick and the shell.
 
-![]()
+![](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/shell-motor.jpg)
 
 For opening the shell, a servo motor can be used as well because 90 degrees movement would be sufficient for this mechanism. 90 degrees rotation can open or close the shell as needed. 
 
