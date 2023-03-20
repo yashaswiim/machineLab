@@ -1,8 +1,8 @@
 # Clock Design
 
-![Design](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/design1.jpg)
-![Design](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/design2.jpg)
-![Design](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/design3.jpg)
+![Design](https://github.com/yashaswiim/machineLab/blob/main/8March/imgs/design1.jpg)
+![Design](https://github.com/yashaswiim/machineLab/blob/main/8March/imgs/design2.jpg)
+![Design](https://github.com/yashaswiim/machineLab/blob/main/8March/imgs/design3.jpg)
 
 The theme of this design is related to the UAE because it is trying to depict pearl diving, one of the major ancient economic activities of the UAE. It is a tradition dating back more than 7000 years ago and it was once the driving force of the UAE economy. It is also believed to be the basis of the foundation of Dubai and Abu Dhabi.
 
@@ -16,11 +16,11 @@ For this mechanism, three motors are required. The first motor is required to ro
 
 For rotating the diver, a stepper motor can be used as it would give excellent position accuracy. Its lower speed compared to other motors would not be an obstruction here because we would not want the diver to rotate very fast anyways in order make it more realistic and to give the viewers a chance to watch the process of the diver reaching the bottom of the "ocean" closely and slowly.
 
-![](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/diver--motor.jpg)
+![](https://github.com/yashaswiim/machineLab/blob/main/8March/imgs/diver--motor.jpg)
 
 For rotating the stick, a servo motor can be used because 180 degrees movement would be sufficient for this mechanism. 180 degrees rotation can bring the shell from the back to the front or the other way around. The motor will be placed at the edge of the diver's tank such that when the stick is extended, the pearl reaches exactly on top of the diver's hand and when it is retracted, the shell is hidden behind (or even inside) the tank, which has a slit at its back to fit the stick and the shell.
 
-![](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/shell-motor.jpg)
+![](https://github.com/yashaswiim/machineLab/blob/main/8March/imgs/shell-motor.jpg)
 
 For opening the shell, a servo motor can be used as well because 90 degrees movement would be sufficient for this mechanism. 90 degrees rotation can open or close the shell as needed. 
 
@@ -32,7 +32,7 @@ Position sensors can be used to more accurately detect when respective motions n
 
 I think all three rotations are similar in some sense. But I will sketch more in detail here about the rotation of the stick to show/hide the shell with the pearls. I think this is a bit more difficult because there are more measurement aspects that need to taken care of so that the shell is hidden properly when its not supposed to be visible to the viewer.
 
-![](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/design4.jpg)
+![](https://github.com/yashaswiim/machineLab/blob/main/8March/imgs/design4.jpg)
 
 ### Audio and Visual Effects
 
@@ -40,7 +40,7 @@ One of the visual effects that might enhance this design is using LEDs instead o
 
 ### Inspiration and More about pearl diving
 
-![inspiration](https://github.com/yashaswiim/machineLab/blob/main/6March/imgs/inspiration.jpg)
+![inspiration](https://github.com/yashaswiim/machineLab/blob/main/8March/imgs/inspiration.jpg)
 
 [Pearl Diving Link 1](https://www.bayut.com/mybayut/pearl-diving-uae/)
 
